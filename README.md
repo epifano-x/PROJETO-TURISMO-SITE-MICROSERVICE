@@ -54,7 +54,7 @@ npm install
 npm start
 ```
 
-Agora, o ambiente de desenvolvimento está configurado com as APIs Java e Node.js em execução, além do frontend React. Abra os navegadores e acesse http://localhost:8080 para interagir com a aplicação.
+Agora, o ambiente de desenvolvimento está configurado com as APIs Java e Node.js em execução, além do frontend React. Abra os navegadores e acesse http://localhost:8081 mas pode definir a porta que desejar para interagir com a aplicação.
 
 
 
